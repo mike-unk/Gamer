@@ -1,0 +1,15 @@
+﻿  pch.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(5969,1): warning C4005: “STATUS_CONTROL_STACK_VIOLATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2560): message : 参见“STATUS_CONTROL_STACK_VIOLATION”的前一个定义
+  CAbout.cpp
+  HomeDlg.cpp
+  Gamer.cpp
+  GamerDlg.cpp
+  KillProcess.cpp
+  RecordDlg.cpp
+  SettingDlg.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 251 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Gamer.vcxproj -> Y:\程序\C++\Gamer\Gamer\x64\Release\Gamer.exe

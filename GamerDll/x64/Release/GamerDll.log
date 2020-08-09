@@ -1,0 +1,23 @@
+﻿  pch.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(5969,1): warning C4005: “STATUS_CONTROL_STACK_VIOLATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2560): message : 参见“STATUS_CONTROL_STACK_VIOLATION”的前一个定义
+  Control.cpp
+Y:\程序\C++\Gamer\Gamer\GamerDll\Control.cpp(103,74): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  dllmain.cpp
+Y:\程序\C++\Gamer\Gamer\GamerDll\dllmain.cpp(50,1): error C2485: “naked”: 无法识别的扩展特性
+Y:\程序\C++\Gamer\Gamer\GamerDll\dllmain.cpp(52,5): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+Y:\程序\C++\Gamer\Gamer\GamerDll\dllmain.cpp(52,11): error C2065: “POP”: 未声明的标识符
+Y:\程序\C++\Gamer\Gamer\GamerDll\dllmain.cpp(52,15): error C2146: 语法错误: 缺少“;”(在标识符“m_dwReturn”的前面)
+Y:\程序\C++\Gamer\Gamer\GamerDll\dllmain.cpp(52,30): error C2065: “TYPE”: 未声明的标识符
+Y:\程序\C++\Gamer\Gamer\GamerDll\dllmain.cpp(52,35): error C2062: 意外的类型“long”
+Y:\程序\C++\Gamer\Gamer\GamerDll\dllmain.cpp(54,5): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+Y:\程序\C++\Gamer\Gamer\GamerDll\dllmain.cpp(54,11): error C2065: “JMP”: 未声明的标识符
+Y:\程序\C++\Gamer\Gamer\GamerDll\dllmain.cpp(54,15): error C2146: 语法错误: 缺少“;”(在标识符“m_dwReturn”的前面)
+Y:\程序\C++\Gamer\Gamer\GamerDll\dllmain.cpp(54,30): error C2065: “TYPE”: 未声明的标识符
+Y:\程序\C++\Gamer\Gamer\GamerDll\dllmain.cpp(54,35): error C2062: 意外的类型“long”
+  HookFunc.cpp
+Y:\程序\C++\Gamer\Gamer\GamerDll\HookFunc.cpp(413,14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  mhook.cpp
+Y:\程序\C++\Gamer\Gamer\GamerDll\mhook-lib\mhook.cpp(49,1): warning C4005: “ODPRINTF”: 宏重定义
+Y:\程序\C++\Gamer\Gamer\GamerDll\mhook-lib\mhook.cpp(47): message : 参见“ODPRINTF”的前一个定义
+Y:\程序\C++\Gamer\Gamer\GamerDll\mhook-lib\mhook.cpp(920,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?

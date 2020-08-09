@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+
+TDAjustCreateInstance=Hijack_TDAjustCreateInstance @1
